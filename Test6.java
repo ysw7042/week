@@ -31,7 +31,12 @@ public class Test6 {
 		System.out.println("면적: "+ area);
 		
 		System.out.printf("면적: %g"+ area);
-		//%g = double %f = float
+		/*%g = double 
+		 * %f = float 
+		 * %d = integer
+		 * \t tap 
+		 * \n enter
+		 */
 
 	}
 
